@@ -1,3 +1,3 @@
 ## Hi there
-- Currently coding in C
-- Working in games
+- Using C, Python and Java
+- Undergrad projects
